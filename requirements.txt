@@ -1,1 +1,8 @@
 streamlit
+yfinance
+datetime
+zipfile
+io
+re
+numpy
+pandas
